@@ -1,6 +1,6 @@
-# Die Anno Layout-Datenbank von tiredT
+# Anno Datenbank
 
-Platzeffiziente Produktions- und Stadtlayouts für alle Anno-Liebhaber.
+Platzeffiziente Produktions- und Stadtlayouts.
 
 ---
 
