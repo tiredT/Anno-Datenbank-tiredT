@@ -10,7 +10,7 @@ Platzeffiziente Produktions- und Stadtlayouts.
 
 ### Tabak
 
-[![4er Tabakverarbeitung](4er Tabakverarbeitung.png)](Tabak/4er Tabakverarbeitung.png)
+[![4er Tabakverarbeitung](4erTabakverarbeitung.png)](Tabak/4erTabakverarbeitung.png)
 
 
 ---
