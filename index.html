@@ -36,13 +36,10 @@
 
     <p>Platzeffiziente Produktions- und Stadtlayouts.</p>
 
-    <div class="reiter">
-
-        <a href="#produktionslayouts">Produktionslayouts</a>
-
-        <a href="#stadtlayouts">Stadtlayouts</a>
-    
-    </div>
+<div class="reiter">
+    <a href="#" onclick="zeigeBereich('produktionslayouts')">Produktionslayouts</a>
+    <a href="#" onclick="zeigeBereich('stadtlayouts')">Stadtlayouts</a>
+</div>
 
     <hr>
 
@@ -124,7 +121,18 @@
 
     </div>   
 
+    <script>
+    function zeigeBereich(bereich) {
+
+        document.getElementById("produktionslayouts").style.display = "none";
+        document.getElementById("stadtlayouts").style.display = "none";
+
+        document.getElementById(bereich).style.display = "block";
+    }
+</script>
+
 </body>
+    
 </html>
 
 
